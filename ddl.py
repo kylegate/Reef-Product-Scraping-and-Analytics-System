@@ -12,7 +12,8 @@ Name TEXT,
 Brand TEXT,
 Category TEXT,
 Sale_Price REAL,
-Price REAL
+Price REAL,
+Option TEXT
 )""")
 
 conn.commit()
