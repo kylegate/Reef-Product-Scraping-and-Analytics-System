@@ -13,7 +13,8 @@ Brand TEXT,
 Category TEXT,
 Sale_Price REAL,
 Price REAL,
-Option TEXT
+Option TEXT,
+Date TEXT
 )""")
-
 conn.commit()
+

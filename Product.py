@@ -17,5 +17,3 @@ class Product:
             f"Non-Sale Price: {self.old_price}\n"
             f"Option: {self.option}\n"
         )
-
-
